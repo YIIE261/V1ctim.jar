@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "axis=y": { "model": "v1ctim:block/teeth_log" },
+    "axis=z": { "model": "v1ctim:block/teeth_log", "x": 90 },
+    "axis=x": { "model": "v1ctim:block/teeth_log", "x": 90, "y": 90 }
+  }
+}

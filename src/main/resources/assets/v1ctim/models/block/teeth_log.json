@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "v1ctim:block/teeth_log_top",
+    "side": "v1ctim:block/teeth_log_side"
+  }
+}

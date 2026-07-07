@@ -1,0 +1,6 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "#minecraft:is_overworld",
+  "features": "v1ctim:steve_statue_placed",
+  "step": "surface_structures"
+}

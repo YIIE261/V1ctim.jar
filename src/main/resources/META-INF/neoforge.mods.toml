@@ -1,0 +1,24 @@
+modLoader = "javafml"
+loaderVersion = "[4,)"
+license = "All rights reserved"
+
+[[mods]]
+modId = "${mod_id}"
+version = "${mod_version}"
+displayName = "V1ctim"
+description = '''Mod de terror psicologico: zonas corruptas en el mundo, formaciones extranas y encuentros con Stalker, Walker y V1ctim.'''
+authors = "Tu nombre aqui"
+
+[[dependencies.v1ctim]]
+    modId = "neoforge"
+    type = "required"
+    versionRange = "[21.11,)"
+    ordering = "NONE"
+    side = "BOTH"
+
+[[dependencies.v1ctim]]
+    modId = "minecraft"
+    type = "required"
+    versionRange = "[1.21.11,1.22)"
+    ordering = "NONE"
+    side = "BOTH"
